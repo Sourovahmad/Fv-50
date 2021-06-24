@@ -1,0 +1,53 @@
+.chartsection{
+
+    text-align: center;
+    background: rgb(131, 129, 129);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.thisisNav{
+    height: 25px;
+    background-color: bisque;
+}
+.Chartlayout{
+
+    background: #fff;
+    width: 480px;
+    margin: auto;
+    padding: 10px 15px 30px 12px;
+
+}
+.rowfortopsection{
+ padding: 10px;
+}
+.textforlef h4{
+
+    text-align: left;
+}
+
+.ChartmiddleSection{
+    margin: 35px 10px 10px 10px;
+}
+.ChartmiddleSection .centerthediv .middlebox{
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    background-color: #2F3542;
+    border-radius: 5px;
+}
+
+.middleboxBottomNav{
+
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+}
+.middleboxText h6{
+    padding-top:8px;
+    color:#fff;
+}
+
+
